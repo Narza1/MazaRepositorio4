@@ -15,7 +15,7 @@ public class MazaEjemploGit4 {
      */
     public static void main(String[] args) {
         System.out.println("Sgkoi");
-        System.out.println("ver1");
+        System.out.println("ver2");
         
     }
     
